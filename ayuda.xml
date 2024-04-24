@@ -1,0 +1,27 @@
+<Participant Code="117327" Parent="117327" Status="ACTIVE" GivenName="Maria" FamilyName="VELAZQUEZ TOSCANO" PrintName="VELAZQUEZ TOSCANO Maria" PrintInitialName="VELAZQUEZ TOSCANO" TVName="Maria VELAZQUEZ TOSCANO" TVInitialName="VELAZQUEZ TOSCANO" TVFamilyName="VELAZQUEZ TOSCANO" Gender="F" Organisation="MEX" BirthDate="2007-06-06" CountryofBirth="Mexico" Nationality="MEX" MainFunctionId="AA01" Current="true" ModificationIndicator="N">
+    <Discipline Code="FSK-------------------------------" IFId="117327">
+        <RegisteredEvent Event="FSKWSINGLES-JUNIOR----------------">
+            <EventEntry Type="ER_EXTENDED" Code="COACH" Value="Marcela Rodriguez" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="1" Value="2A" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="2" Value="3S+2T" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="3" Value="FSSp" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="4" Value="StSq" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="5" Value="2Lz" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="6" Value="CSp" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_SHORT" Pos="7" Value="CCoSp" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="1" Value="2A+2T" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="2" Value="3S+2T" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="3" Value="2A" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="4" Value="FCCSp" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="5" Value="3T" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="6" Value="2Lz+2F" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="7" Value="FCCoSp" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="8" Value="2Lz" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="9" Value="ChSq" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="10" Value="2F" />
+            <EventEntry Type="ER_EXTENDED" Code="ELEMENT_CODE_FREE" Pos="11" Value="CCoSp" />
+            <EventEntry Type="ER_EXTENDED" Code="MUSIC" Pos="1" Value="Poeta En El Viento, Flor de la Noche" />
+            <EventEntry Type="ER_EXTENDED" Code="MUSIC" Pos="2" Value="The Personal History of David Copperfield" />
+        </RegisteredEvent>
+    </Discipline>
+</Participant>
